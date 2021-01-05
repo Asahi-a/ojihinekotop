@@ -1,0 +1,19 @@
+/*囲い枠*/
+
+body {
+    width: 100%;
+    border:20px solid #c9af87;/* 枠線 */
+    box-sizing:border-box;
+}
+@media screen and (max-width: 767px){
+body {
+    border: 10px solid #c9af87;/* SP枠線の幅 */
+}
+}
+
+/*バックグラウンドカラー*/
+
+body {background : #ffe5bd;
+
+}
+
